@@ -1,0 +1,10 @@
+{
+  "id": "study-tracker",
+  "name": "Study Tracker",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Track how many times you've studied a note by incrementing a counter.",
+  "author": "Senthil Kumaran",
+  "authorUrl": "https://github.com/orsenthil",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,26 @@
+/* styles.css */
+.study-tracker-settings table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+.study-tracker-settings th,
+.study-tracker-settings td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.study-tracker-settings button {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+.study-tracker-settings button:hover {
+  background-color: var(--interactive-accent-hover);
+}
