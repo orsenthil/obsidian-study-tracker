@@ -38,6 +38,10 @@ An Obsidian plugin to track study sessions for notes. Keep count of how many tim
 2. Run `npm install`
 3. Run `npm run dev` to start compilation in watch mode
 
+## Screenshot
+
+![img](./imgs/obsidian-study-tracker-screenshot.png)
+
 ## License
 
 MIT
